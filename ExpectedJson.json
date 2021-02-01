@@ -1,0 +1,312 @@
+{
+  "AccountStatus": "Active",
+  "Agent": [
+    {
+      "AgencyCode": "",
+      "AgencyId": "",
+      "AgencyName": "",
+      "AgentCode": "47200",
+      "AgentId": "47200",
+      "AgentName": "Buckle Agency, LLC"
+    }
+  ],
+  "Association": [
+    {
+      "RelationPartyId": "47200",
+      "RelationPartyName": "Buckle Agency, LLC",
+      "RelationType": "PrimaryAgent",
+      "RelationshipStatus": ""
+    }
+  ],
+  "ContactAndPreferences": {
+    "Address": [
+      {
+        "AddressId": "167200",
+        "AddressLine1": "2675 MAYFIELD DR",
+        "AddressLine2": "",
+        "AddressLine3": "",
+        "AddressType": "ML",
+        "AddressTypeDescription": "Mailing",
+        "City": "TALBOTT",
+        "Country": "United States",
+        "County": "",
+        "FullAddress": "2675 MAYFIELD DR, TALBOTT, TN, 37877, USA",
+        "IsPreferredAddress": "Yes",
+        "Latitude": "",
+        "Longitude": "",
+        "State": "Tennessee",
+        "ZIPCode": "37877"
+      },
+      {
+        "AddressId": "166200",
+        "AddressLine1": "2675 MAYFIELD DR Test",
+        "AddressLine2": "",
+        "AddressLine3": "",
+        "AddressType": "BS",
+        "AddressTypeDescription": "Business",
+        "City": "TALBOTT",
+        "Country": "United States",
+        "County": "",
+        "FullAddress": "2675 MAYFIELD DR, TALBOTT, TN, 37877, USA",
+        "IsPreferredAddress": "No",
+        "Latitude": "",
+        "Longitude": "",
+        "State": "Tennessee",
+        "ZIPCode": "37877"
+      }
+    ],
+    "Email": [
+      {
+        "EmailAddress": "srisai.gaddam@valuemomentum.com",
+        "EmailType": "HM",
+        "EmailTypeDescription": "Personal",
+        "IsPreferredEmail": ""
+      }
+    ],
+    "Phone": [
+      {
+        "IsInternationalNumber": "No",
+        "IsPreferredNumber": "Yes",
+        "PhoneExt": "",
+        "PhoneId": "149200",
+        "PhoneNumber": "1321321321",
+        "PhoneType": "MB",
+        "PhoneTypeDescription": "Mobile"
+      },
+      {
+        "IsInternationalNumber": "No",
+        "IsPreferredNumber": "No",
+        "PhoneExt": "",
+        "PhoneId": "148200",
+        "PhoneNumber": "1321321321",
+        "PhoneType": "BS",
+        "PhoneTypeDescription": "Business"
+      }
+    ],
+    "RepresentativeDetail": [
+      {
+        "AccountStatus": "",
+        "FirstName": "",
+        "LastName": "",
+        "MiddleName": "",
+        "RepresentativeId": "",
+        "Salutation": "",
+        "WebsiteURL": ""
+      }
+    ]
+  },
+  "CreatedBy": "",
+  "CreatedOn": "2020-12-16 05:58:15",
+  "CustomerCategory": "",
+  "CustomerId": "114200",
+  "CustomerName": "Frank Olesko",
+  "CustomerStatus": "Active",
+  "CustomerType": "I",
+  "CustomerTypeDescription": "Individual",
+  "Document": [
+    {
+      "DocumentCategory": "",
+      "DocumentCreatedBy": "993000",
+      "DocumentCreatedOn": "2020-12-16 06:00:56",
+      "DocumentExtension": "pdf",
+      "DocumentId": "71200",
+      "DocumentModifiedBy": "993000",
+      "DocumentModifiedOn": "2020-12-16 06:01:02",
+      "DocumentName": "Insured Copy of Policy",
+      "DocumentStatus": "Normal",
+      "DocumentSubCategory": "",
+      "DocumentType": "",
+      "DocumentUploadedBy": "",
+      "DocumentUploadedOn": "",
+      "MediaLocation": "Possibly Document Not Attached",
+      "Policy": [
+        {
+          "PolicyNumber": "GW01TN000000301",
+          "Product": [
+            {
+              "ProductId": "2504",
+              "ProductName": "Business Automobile"
+            }
+          ],
+          "TransactionId": "96200",
+          "TransactionType": "Applicatn"
+        }
+      ]
+    },
+    {
+      "DocumentCategory": "",
+      "DocumentCreatedBy": "993000",
+      "DocumentCreatedOn": "2020-12-16 06:22:16",
+      "DocumentExtension": "pdf",
+      "DocumentId": "73200",
+      "DocumentModifiedBy": "993000",
+      "DocumentModifiedOn": "2020-12-16 06:22:17",
+      "DocumentName": "Policy document",
+      "DocumentStatus": "Normal",
+      "DocumentSubCategory": "",
+      "DocumentType": "",
+      "DocumentUploadedBy": "",
+      "DocumentUploadedOn": "",
+      "MediaLocation": "Possibly Document Not Attached",
+      "Policy": [
+        {
+          "PolicyNumber": "GW01TN000000301",
+          "Product": [
+            {
+              "ProductId": "2504",
+              "ProductName": "Business Automobile"
+            }
+          ],
+          "TransactionId": "96200",
+          "TransactionType": "Applicatn"
+        }
+      ]
+    }
+  ],
+  "FirstName": "Frank",
+  "LastName": "Olesko",
+  "LegalEntityType": "",
+  "LegalEntityTypeDescription": "",
+  "MemberData": [
+    {
+      "ExternalIdName": "CustomerPaymentProfileId",
+      "ExternalIdValue": "1929162654"
+    },
+    {
+      "ExternalIdName": "LyftDriverId",
+      "ExternalIdValue": ""
+    },
+    {
+      "ExternalIdName": "LyftRefreshToken",
+      "ExternalIdValue": ""
+    },
+    {
+      "ExternalIdName": "MemberId",
+      "ExternalIdValue": "BKL10009"
+    }
+  ],
+  "MiddleName": "",
+  "ModifiedBy": "",
+  "ModifiedOn": "",
+  "OrganizationDetail": {},
+  "PartitionBy": "CreatedOn",
+  "PartitionByValue": "Customer_202012",
+  "PersonDetail": {
+    "CustomerSinceDate": "",
+    "DateOfBirth": "",
+    "EmployementDetail": [
+      {
+        "Department": "",
+        "Designation": ""
+      }
+    ],
+    "Gender": "",
+    "MaritalStatus": ""
+  },
+  "ProductsAndServices": {
+    "LastActivity": "Applicatn",
+    "LastBillAmount": 0.0,
+    "LastBillDate": "",
+    "LastPaymentAmount": 0.0,
+    "LastPaymentDate": "",
+    "NextBillAmount": 0.0,
+    "NextBillDate": "",
+    "Policy": [
+      {
+        "Agent": [
+          {
+            "AgencyCode": "",
+            "AgencyName": "",
+            "AgentCode": "47200",
+            "AgentName": "Buckle Agency, LLC"
+          }
+        ],
+        "BillingMethod": "Book Billing",
+        "BusinessInceptionYear": "",
+        "Carrier": [
+          {
+            "CarrierId": "46200",
+            "CarrierName": "Gateway Insurance Company"
+          }
+        ],
+        "ContractState": "Tennessee",
+        "DescriptionOfOperations": "",
+        "IndustryType": "",
+        "InstallmentPlan": "6Pay 25DP",
+        "IsQuote": "No",
+        "LastBillAmount": 0.0,
+        "LastBillDate": "",
+        "LastPaymentAmount": 0.0,
+        "LastPaymentDate": "",
+        "Location": [
+          {
+            "AddressLine1": "2675 MAYFIELD DR",
+            "AddressLine2": "",
+            "AddressLine3": "",
+            "City": "TALBOTT",
+            "Country": "United States",
+            "County": "",
+            "FullAddress": "2675 MAYFIELD DR, TALBOTT, TN, 37877, USA",
+            "Latitude": "",
+            "LocationId": "84200",
+            "LocationNumber": "1",
+            "Longitude": "",
+            "State": "Tennessee",
+            "Status": "Add",
+            "ZIPCode": "37877"
+          }
+        ],
+        "NextBillAmount": 0.0,
+        "NextBillDate": "",
+        "PaymentPlan": "",
+        "PolicyEffectiveDate": "2020-12-16 00:00:00",
+        "PolicyExpirationDate": "2021-06-16 00:00:00",
+        "PolicyId": "96200",
+        "PolicyNumber": "GW01TN000000301",
+        "PolicyStatus": "InForce",
+        "Product": [
+          {
+            "LineOfBusinessCode": "BusAuto",
+            "LineOfBusinessDescription": "Business Automobile",
+            "ProductId": "2504",
+            "ProductName": "Business Automobile"
+          }
+        ],
+        "Program": "",
+        "SubIndustryType": "",
+        "TotalAmount": 3019.0,
+        "TransactionId": "96200",
+        "TransactionStatus": "IssueAccept - InForce",
+        "TransactionType": "Applicatn",
+        "WrittenPremium": 2944.0
+      }
+    ],
+    "ProductsPurchased": [
+      {
+        "ProductId": "2504",
+        "ProductName": "Business Automobile"
+      }
+    ],
+    "TotalAmount": 3019.0,
+    "TotalOutstandingAmount": 0.0,
+    "TotalPremium": 2944.0
+  },
+  "Registration": [
+    {
+      "IssuingAuthority": "",
+      "IssuingCountry": "",
+      "IssuingState": "",
+      "LegalIdNumber": "",
+      "LegalIdType": "SSN",
+      "NameOnLegalId": "",
+      "ValidFrom": "",
+      "ValidTo": ""
+    }
+  ],
+  "Salutation": "",
+  "SourceSystemId": "114200",
+  "SourceSystemName": "ConceptOne",
+  "UDSDocumentType": "Customer",
+  "WebsiteURL": "",
+  "id": "Customer_114200"
+} 
