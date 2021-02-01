@@ -1,0 +1,119 @@
+{
+  "AccountStatus": "Active",
+  "Association": [
+    {
+      "RelationPartyId": "47200",
+      "RelationPartyName": "Buckle Agency, LLC",
+      "RelationType": "PrimaryAgent",
+      "RelationshipStatus": ""
+    }
+  ],
+  "ContactAndPreferences": {
+    "Address": [
+      {
+        "AddressId": "166200",
+        "AddressLine1": "2675 MAYFIELD DR Test",
+        "AddressLine2": "",
+        "AddressLine3": "",
+        "AddressType": "BS",
+        "AddressTypeDescription": "Business",
+        "City": "TALBOTT",
+        "Country": "United States",
+        "County": "",
+        "FullAddress": "2675 MAYFIELD DR, TALBOTT, TN, 37877, USA",
+        "IsPreferredAddress": "No",
+        "Latitude": "",
+        "Longitude": "",
+        "State": "Tennessee",
+        "ZIPCode": "37877"
+      }
+    ],
+    "Email": [
+      {
+        "EmailAddress": "srisai.gaddam@valuemomentum.com",
+        "EmailType": "HM",
+        "EmailTypeDescription": "Personal",
+        "IsPreferredEmail": ""
+      }
+    ],
+    "Phone": [
+      {
+        "IsInternationalNumber": "No",
+        "IsPreferredNumber": "Yes",
+        "PhoneExt": "",
+        "PhoneId": "149200",
+        "PhoneNumber": "1321321321",
+        "PhoneType": "MB",
+        "PhoneTypeDescription": "Mobile"
+      },
+      {
+        "IsInternationalNumber": "No",
+        "IsPreferredNumber": "No",
+        "PhoneExt": "",
+        "PhoneId": "148200",
+        "PhoneNumber": "1321321321",
+        "PhoneType": "BS",
+        "PhoneTypeDescription": "Business"
+      }
+    ],
+    "RepresentativeDetail": [
+      {
+        "AccountStatus": "",
+        "FirstName": "",
+        "LastName": "",
+        "MiddleName": "",
+        "RepresentativeId": "",
+        "Salutation": "",
+        "WebsiteURL": ""
+      }
+    ]
+  },
+  "CreatedBy": "",
+  "CreatedOn": "2020-12-16 05:58:15",
+  "CustomerCategory": "",
+  "CustomerId": "114200",
+  "CustomerName": "Frank Olesko",
+  "CustomerStatus": "Active",
+  "CustomerType": "I",
+  "CustomerTypeDescription": "Individual",  
+  "FirstName": "Frank",
+  "LastName": "Olesko",
+  "LegalEntityType": "",
+  "LegalEntityTypeDescription": "",  
+  "MiddleName": "",
+  "ModifiedBy": "",
+  "ModifiedOn": "",
+  "OrganizationDetail": {},
+  "PartitionBy": "CreatedOn",
+  "PartitionByValue": "Customer_202012",
+  "PersonDetail": {
+    "CustomerSinceDate": "",
+    "DateOfBirth": "",
+    "EmployementDetail": [
+      {
+        "Department": "",
+        "Designation": ""
+      }
+    ],
+    "Gender": "",
+    "MaritalStatus": ""
+  },  
+  "Registration": [
+    {
+      "IssuingAuthority": "",
+      "IssuingCountry": "",
+      "IssuingState": "",
+      "LegalIdNumber": "",
+      "LegalIdType": "SSN",
+      "NameOnLegalId": "",
+      "ValidFrom": "",
+      "ValidTo": ""
+    }
+  ],
+  "Salutation": "",
+  "SourceSystemId": "114200",
+  "SourceSystemName": "ConceptOne",
+  "UDSDocumentType": "Customer",
+  "WebsiteURL": "",
+  "id": "Customer_114200"
+}
